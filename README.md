@@ -2,7 +2,7 @@
 
 This repository contains the auto-generated go-ethereum bindings for BBChain contracts repo.
 
-The bindings are generated in the [bbchain-contracts](github.com/relab/bbchain-contracts) repository by running the command below:
+The bindings are generated in the [bbchain-contracts](https://github.com/relab/bbchain-contracts) repository by running the command below:
 
 ```
 npm run abigen
