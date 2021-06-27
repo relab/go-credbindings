@@ -1,4 +1,4 @@
-module github.com/relab/bbchain-bindings
+module github.com/relab/go-credbindings
 
 go 1.16
 

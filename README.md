@@ -1,14 +1,14 @@
-# BBChain go bindings
+# Academic Credential Go Bindings
 
-This repository contains the auto-generated go-ethereum bindings for BBChain contracts repo.
+This repository contains the auto-generated go-ethereum bindings for Academic Credential Contracts repo.
 
-The bindings are generated in the [bbchain-contracts](https://github.com/relab/bbchain-contracts) repository by running the command below:
+The bindings are generated in the [credcontracts](https://github.com/relab/credcontracts) repository by running the command below:
 
 ```
 npm run abigen
 ```
 
-The bindings are release using the following command in the `bbchain-contracts` repository:
+The bindings are released using the following command in the `credcontracts` repository:
 
 ```
 npm run release
